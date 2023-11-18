@@ -1,4 +1,7 @@
 # Internet Connection Checker with Animation
+<p align="center" >
+<img src="https://github.com/kanchana66/Linux-file-management-system-shell-script/blob/master/bash-logo.jpg" >
+</p>
 
 ## Overview
 
