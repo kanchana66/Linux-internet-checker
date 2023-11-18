@@ -33,6 +33,4 @@ The script utilizes the `ping` command to check the internet connection. If the 
 
 The animation messages are displayed in the terminal, providing a visual representation of the internet connection status.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
